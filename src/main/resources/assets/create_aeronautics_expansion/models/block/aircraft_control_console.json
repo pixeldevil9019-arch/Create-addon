@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/deepslate_tiles",
+    "up": "minecraft:block/iron_block",
+    "north": "minecraft:block/gray_concrete",
+    "south": "minecraft:block/gray_concrete",
+    "east": "minecraft:block/light_gray_concrete",
+    "west": "minecraft:block/light_gray_concrete",
+    "particle": "minecraft:block/gray_concrete"
+  }
+}
