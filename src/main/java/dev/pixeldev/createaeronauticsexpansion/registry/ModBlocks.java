@@ -1,6 +1,6 @@
-package dev.pixeldev.createaeronauticsexpansion.registry;
+package dev.pixeldevil.createaeronauticsexpansion.registry;
 
-import dev.pixeldev.createaeronauticsexpansion.CreateAeronauticsExpansion;
+import dev.pixeldevil.createaeronauticsexpansion.CreateAeronauticsExpansion;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.MapColor;
