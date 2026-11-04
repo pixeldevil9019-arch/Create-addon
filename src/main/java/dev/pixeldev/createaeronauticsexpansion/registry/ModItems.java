@@ -1,6 +1,6 @@
-package dev.pixeldev.createaeronauticsexpansion.registry;
+package dev.pixeldevil.createaeronauticsexpansion.registry;
 
-import dev.pixeldev.createaeronauticsexpansion.CreateAeronauticsExpansion;
+import dev.pixeldevil.createaeronauticsexpansion.CreateAeronauticsExpansion;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.neoforged.neoforge.registries.DeferredItem;
