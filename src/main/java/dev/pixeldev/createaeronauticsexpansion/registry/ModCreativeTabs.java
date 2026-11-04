@@ -1,6 +1,6 @@
-package dev.pixeldev.createaeronauticsexpansion.registry;
+package dev.pixeldevil.createaeronauticsexpansion.registry;
 
-import dev.pixeldev.createaeronauticsexpansion.CreateAeronauticsExpansion;
+import dev.pixeldevil.createaeronauticsexpansion.CreateAeronauticsExpansion;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
