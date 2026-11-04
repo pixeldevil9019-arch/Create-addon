@@ -1,0 +1,6 @@
+{
+  "itemGroup.create_aeronautics_expansion": "Create: Aeronautics Expansion",
+  "block.create_aeronautics_expansion.aircraft_control_console": "Aircraft Control Console",
+  "item.create_aeronautics_expansion.engine_governor": "Engine Governor",
+  "item.create_aeronautics_expansion.propeller_hub": "Propeller Hub"
+}
