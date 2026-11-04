@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "create_aeronautics_expansion:block/aircraft_control_console" }
+  }
+}
